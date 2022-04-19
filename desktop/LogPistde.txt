@@ -1,0 +1,4 @@
+Pista 2 : Aereo 18 atterrato
+Pista 1 : Aereo 61 atterrato
+Pista 2 : Aereo 72 atterrato
+Pista 1 : Aereo 27 atterrato
